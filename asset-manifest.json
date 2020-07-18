@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/pwa_template_react/static/css/main.a99ab8d4.chunk.css",
+    "main.js": "/pwa_template_react/static/js/main.1ab48e14.chunk.js",
+    "main.js.map": "/pwa_template_react/static/js/main.1ab48e14.chunk.js.map",
+    "runtime-main.js": "/pwa_template_react/static/js/runtime-main.b232df1c.js",
+    "runtime-main.js.map": "/pwa_template_react/static/js/runtime-main.b232df1c.js.map",
+    "static/js/2.4869306a.chunk.js": "/pwa_template_react/static/js/2.4869306a.chunk.js",
+    "static/js/2.4869306a.chunk.js.map": "/pwa_template_react/static/js/2.4869306a.chunk.js.map",
+    "index.html": "/pwa_template_react/index.html",
+    "precache-manifest.84791ca2863d18218dd799e4cbd2f66c.js": "/pwa_template_react/precache-manifest.84791ca2863d18218dd799e4cbd2f66c.js",
+    "service-worker.js": "/pwa_template_react/service-worker.js",
+    "static/css/main.a99ab8d4.chunk.css.map": "/pwa_template_react/static/css/main.a99ab8d4.chunk.css.map",
+    "static/js/2.4869306a.chunk.js.LICENSE.txt": "/pwa_template_react/static/js/2.4869306a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b232df1c.js",
+    "static/js/2.4869306a.chunk.js",
+    "static/css/main.a99ab8d4.chunk.css",
+    "static/js/main.1ab48e14.chunk.js"
+  ]
+}
